@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Lab Statistics Calculator</string>
+    <string name="demarrer_calcul_des_statistiques_menstriel">Démarrer le calcul menstruel</string>
+    <string name="demarrer_calcul_des_statistiques_trimestriel">Démarrer le calcul trimestriel</string>
+    <string name="gerer_les_parametres_disponible">Gérer les paramètres disponible</string>
+    <string name="voir_les_resultat_du_statistique">Voir les résultats du statistiques</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="save">Enregistrer</string>
+    <string name="count">nombre</string>
+    <string name="add_parameter">Ajouter un paramètre</string>
+    <string name="enter_a_new_parameter">Entrez un nouveau paramètre</string>
+    <string name="input_a_parameter_name">Saisissez un nom de paramètre</string>
+    <string name="name">Nom</string>
+    <string name="cancel">Annuler</string>
+    <string name="modify_or_delete_a_parameter">Modifier ou supprimer un paramètre</string>
+    <string name="delete">supprimer</string>
+    <string name="done">Fait</string>
+    <string name="back">Précédent</string>
+    <string name="forward">Avant</string>
+    <string name="see_parameter_stats">Voir les statistiques des paramètres</string>
+    <string name="le_est_plus_demande_ce_mois_avec_un_pourcentage">Le %1$s est plus demandé ce mois avec un pourcentage</string>
+    <string name="de_que_le_mois_passe">" de +%1$s% que le mois passé"</string>
+    <string name="le_est_moins_demande_ce_mois_avec_un_pourcentage">Le %1$s est moins demandé ce mois avec un pourcentage</string>
+    <string name="il_n_y_a_pas_de_donnee_de_mois_precedent">Il n\'y a pas de donnée de mois précédent</string>
+    <string name="ok">D\'accord</string>
+    <string name="les_resultats_du_mois">Les résultats du mois</string>
+    <string name="please_enter_a_valid_name">Please enter a valid name</string>
+</resources>
